@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"/>
 </p>
 
-# 📚 Algorithms and Data Structures I & II - C++ Projects
+# 📚 Algorithms and Data Structures I & II - C++ (UNNE 2023)
 
 This repository contains exercises, assignments, theory notes, and university projects related to **Algorithms and Data Structures I & II** at **UNNE (Universidad Nacional del Nordeste)**.
 
