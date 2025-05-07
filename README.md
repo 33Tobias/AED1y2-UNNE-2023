@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="facena.png" alt="FACENA Logo" width="100"/>
+  <img src="assets/facena.png" alt="FACENA Logo" width="100"/>
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
