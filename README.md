@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/facena.png" alt="FACENA Logo" width="100"/>
+  <img src="facena.png" alt="FACENA Logo" width="100"/>
 </p>
 
 <p align="center">
