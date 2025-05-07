@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Logo_UNNE.png" alt="UNNE Logo" width="100"/>
+  <img src="./assets/facena.png" alt="FACENA Logo" width="100"/>
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/UNNE-Informatics-blue?style=for-the-badge"/>
