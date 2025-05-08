@@ -1,102 +1,98 @@
 <p align="center">
-  <img src="assets/facena.png" alt="FACENA Logo" width="100"/>
+  <img src="assets/facena.png" alt="Logo de FACENA" width="100"/>
 </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UNNE-Informatics-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UNNE-Informática-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Estado-Completado-brightgreen?style=for-the-badge"/>
 </p>
 
-# 📚 Algorithms and Data Structures I & II - UNNE 2023
+# 📚 Algoritmos y Estructura de Datos I y II - UNNE 2023
 
-This repository contains exercises, assignments, theory notes, and university projects related to **Algorithms and Data Structures I & II** at **UNNE (Universidad Nacional del Nordeste)**.
+Este repositorio reúne todos los ejercicios, trabajos prácticos, apuntes y proyectos desarrollados durante las materias **Algoritmos y Estructura de Datos I y II** de la **UNNE - Facultad de Ciencias Exactas y Naturales y Agrimensura (FaCENA)**.
 
-It showcases my learning journey — from basic algorithm design to solving complex problems using advanced data structures.
-
----
-
-## 📂 Repository Structure
-
-### 📘 [Algorithms and Data Structures I](./Algoritmo%20y%20Estructura%20de%20datos%201)
-
-Focus: **Foundations of programming and basic algorithms using C++**
-
-In this first stage, I learned:
-
-- 🧠 **Algorithmic thinking** → Flowcharts and pseudocode
-- 🧱 **C++ basics** → Variables, operators, input/output, conditionals, loops, functions
-- 📄 **File handling** → Basic text file operations
-- 🧩 **Structured programming** → Modular functions and organization
-
-**Contents:**
-
-- 📚 **Algorithm Classes** → Notes, solved exercises and class examples
-- 🧰 **Dev C++ Projects** → Practical exercises and programs
-- 📝 **Resolution Strategies (TP1-2)** → Problem-solving exercises
-- 🔧 **Program Parts (TP3)** → Well-organized program examples
+Refleja mi proceso de aprendizaje, desde el diseño de algoritmos básicos hasta la resolución de problemas complejos utilizando estructuras de datos avanzadas en C++.
 
 ---
 
-### 📗 [Algorithms and Data Structures II](./Algoritmo%20y%20Estructura%20de%20datos%202)
+## 📦 Estructura del Repositorio
 
-Focus: **Advanced data structures and solving complex problems in C++**
+### 📘 [Algoritmos y Estructura de Datos I](./Algoritmo%20y%20Estructura%20de%20datos%201)
 
-In this second stage, I worked on:
+**Enfoque:** Fundamentos de programación y algoritmos básicos con C++
 
-- 🧮 **Arrays and Matrices** → Advanced handling and manipulation
-- 🗂️ **Structures (struct)** → Organizing and managing data
-- 📚 **Lists, Stacks, and Queues** → Static and dynamic versions
-- 💾 **Files** → Advanced file handling for data persistence
-- 🧩 **Project design and integration** → Putting everything together in a final project
+- 🧠 **Pensamiento algorítmico** → Diagramas de flujo y pseudocódigo.
+- 🧱 **Fundamentos de C++** → Variables, operadores, entrada/salida, condicionales, bucles y funciones.
+- 📄 **Manejo de archivos** → Operaciones básicas con archivos de texto.
+- 🧩 **Programación estructurada** → Modularización de funciones y organización del código.
 
-**Contents:**
+**Contenido principal:**
 
-- 🧪 **2nd Exam Preparation** → Exercises and review codes
-- ✏️ **Drafts** → Experimental code and solution ideas
-- 📖 **Theory** → Study materials and notes
-- 🏆 **Integrative Project** → Final comprehensive project applying all concepts
-- 📌 **Other Works** → Additional exercises and assignments
+- 📚 Clases de algoritmos → Apuntes, ejercicios resueltos y ejemplos de clase.
+- 🧰 Proyectos en Dev C++ → Programas prácticos.
+- 📝 Estrategias de resolución (TP1-2) → Ejercicios de práctica.
+- 🔧 Partes de programas (TP3) → Ejemplos de programas estructurados.
 
 ---
 
-## 🚧 Integrative Project
+### 📗 [Algoritmos y Estructura de Datos II](./Algoritmo%20y%20Estructura%20de%20datos%202)
 
-The **Integrative Project** is the final and most important task in **Algorithms and Data Structures II**.
+**Enfoque:** Estructuras de datos avanzadas y resolución de problemas complejos en C++
 
-**Goal:**  
-Build a complete and functional program in C++ to solve a real-world problem by applying everything learned during the course.
+- 🧮 **Arreglos y matrices** → Manejo avanzado y manipulación.
+- 🗂️ **Estructuras (struct)** → Organización y gestión de datos complejos.
+- 📚 **Listas, pilas y colas** → Implementaciones estáticas y dinámicas.
+- 💾 **Manejo avanzado de archivos** → Persistencia de datos.
+- 🧩 **Diseño e integración de proyectos** → Creación de proyectos finales completos.
 
-**Key features of the project:**
+**Contenido principal:**
 
-- 📂 **File I/O** → Reading and writing to store and manage data
-- 🗂️ **Structures (structs)** → Organizing complex data
-- 📊 **Arrays and Lists** → Managing dynamic collections
-- 🧩 **Functions** → Modular and clean code
-- 🖥️ **User Interface** → Menu-driven user interaction
-
-This project demonstrates my ability to design, build, and implement full solutions using structured programming.
+- 🧪 Preparación de 2° parcial → Ejercicios y prácticas de repaso.
+- ✏️ Borradores → Ideas y soluciones experimentales.
+- 📖 Teoría → Apuntes de estudio.
+- 🏆 Proyecto Integrador → Proyecto final aplicando todos los conceptos aprendidos.
+- 📌 Otros trabajos → Ejercicios adicionales y tareas complementarias.
 
 ---
 
-## 🚀 Technologies
+## 🏆 Proyecto Integrador
+
+El **Proyecto Integrador** fue la tarea más importante en **Algoritmos y Estructura de Datos II**.
+
+**Objetivo:**  
+Desarrollar un programa completo y funcional en C++ que resolviera un problema real aplicando todos los conocimientos adquiridos.
+
+**Aspectos clave del proyecto:**
+
+- 📂 Manejo de archivos → Lectura y escritura para gestionar datos.
+- 🗂️ Uso de estructuras (structs) → Organización eficiente de información.
+- 📊 Implementación de arreglos y listas → Gestión dinámica de datos.
+- 🧩 Código modular → Separación en funciones para mejorar la organización.
+- 🖥️ Interfaz de usuario → Menú de opciones intuitivo y amigable.
+
+Este proyecto demuestra la capacidad de diseñar, construir e implementar soluciones reales utilizando programación estructurada.
+
+---
+
+## 🚀 Tecnologías utilizadas
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dev%20C%2B%2B-0065A9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Standard%20Library-C%2B%2B-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Librerías-Standard%20C++-00599C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
 ---
 
-## 📝 Notes
+## 📌 Notas
 
-- All projects were made as part of my university studies at **UNNE**.
-- Some exercises contain comments and explanations in Spanish.
-- The repository reflects the real structure and workflow of the courses.
+- Todos los proyectos y ejercicios fueron realizados en el marco de las materias **Algoritmos y Estructura de Datos I y II - UNNE (FaCENA)**, año 2023.
+- Los ejercicios incluyen comentarios y explicaciones en español.
+- Este repositorio refleja la evolución completa desde fundamentos de programación hasta la implementación de soluciones completas en C++.
 
 ---
 
-<p align="center"><b>❤️🐔 Made with passion by Tobias</b></p>
+<p align="center"><b>❤️🐔 Hecho con dedicación y pasión por Tobias</b></p>
+
